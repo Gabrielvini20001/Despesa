@@ -194,6 +194,8 @@ select2.addEventListener("change", function() {
     // Exibe o valor selecionado atual
     document.getElementById("valor2").textContent = `Dia selecionado: ${valoresSelecionados}`;
 
+    console()
+
     
     
 });
